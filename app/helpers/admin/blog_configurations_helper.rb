@@ -1,0 +1,2 @@
+module Admin::BlogConfigurationsHelper
+end
