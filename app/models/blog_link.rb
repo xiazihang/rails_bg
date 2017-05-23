@@ -1,2 +1,0 @@
-class BlogLink < ApplicationRecord
-end
